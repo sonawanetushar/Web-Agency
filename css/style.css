@@ -6,8 +6,8 @@
 }
 /* web Agency */
 .navbar-brand {
-  margin-left: 40px;
-  font-size: 50px;
+  margin-left: 0px;
+  font-size: 30px;
   font-family: 'Baloo Bhai 2', cursive;
 }
 /* Home About Services */
@@ -83,6 +83,15 @@ p{
 }
 .card img{
   width: 50%;
+}
+a.btn.btn-primary.mt-3.btn-lg{
+  border-color: #e9204f;
+  color: white;
+  background-color: #e9204f;
+}
+a.btn.btn-primary.mt-3.btn-lg:hover{
+  background-color: white;
+  color: black;
 }
 .col-lg-3.col-md-6.col-sm-6.col-12{
   padding-left: 0px;
