@@ -46,27 +46,29 @@
     font-size: 35px;
     font-family: 'Muli', sans-serif;
   }
-  /*'<' previous right icon */
-  span.carousel-control-prev-icon{
-    width: 30px;
-    height: 30px;
-    margin-top: -15%;
-    margin-right: -15%;
-  }
-  /*'>' Next left icon */
-  span.carousel-control-next-icon{
-    width: 30px;
-    height: 30px;
-    margin-top: -15%;
-    margin-left: -15%;
-  }
+  /* form */
+.form-group{
+    font-family: 'DM Serif Display', serif;
+}
+h2{
+    margin-bottom: 40px;
+    color: #e9204f;
+}
+label {
+    color: #333;
+}
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+}
   /* Style all font awesome icons */
-ul li {
-  text-decoration: none;
-  list-style: none;
-  }
-  a.logo{
-    color: white;
-    font-family: 'Baloo Bhai 2', cursive;
-  }
-  
+  ul li {
+    text-decoration: none;
+    list-style: none;
+    }
+    a.logo{
+      color: white;
+      font-family: 'Baloo Bhai 2', cursive;
+    }
