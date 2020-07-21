@@ -1,5 +1,4 @@
 <?php 
-// include 'contactus.html';
 
 $server = 'localhost';
 $username = 'root';
